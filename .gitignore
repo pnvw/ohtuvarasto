@@ -2,3 +2,6 @@
 __pycache__/
 .pytest_cache/
 *.tmp
+.coverage
+htmlcov/
+.DS_Store/
