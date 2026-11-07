@@ -1,2 +1,3 @@
 [run]
 sourse = src
+omit = src/index.py, src/tests/**
