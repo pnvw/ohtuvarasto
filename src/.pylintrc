@@ -1,7 +1,6 @@
 [MASTER]
 
-ignore=tests
-ignore=single_file_to_ignore.py
+ignore=tests, single_file_to_ignore.py
 
 [MESSAGE CONTROL]
 
