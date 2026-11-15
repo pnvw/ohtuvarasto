@@ -51,4 +51,3 @@ class Varasto:
     def __str__(self):
         """Palauttaa varaston saldon ja vapaan tilan merkkijonona."""
         return f"saldo = {self.saldo}, vielä tilaa {self.paljonko_mahtuu()}"
-    
